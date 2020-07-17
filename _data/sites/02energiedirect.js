@@ -11,9 +11,8 @@ module.exports = {
 		"https://www.energiedirect.nl/zonnepanelen",
 		"https://www.energiedirect.nl/energie/energie-aanbiedingen",
 		"https://www.energiedirect.nl/energie/goedkope-energie",
-		// "https://www.energiedirect.nl/energie/overstappen-energie",
-		// "https://www.energiedirect.nl/energie/energie-besparen",
-		// "https://www.energiedirect.nl/energie/goedkope-energie",
-		// "https://www.energiedirect.nl/energie/energiecontract",
+		"https://www.energiedirect.nl/energie/overstappen-energie",
+		"https://www.energiedirect.nl/energie/energie-besparen",
+		"https://www.energiedirect.nl/energie/energiecontract",
 	]
 };
