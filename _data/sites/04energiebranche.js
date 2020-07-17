@@ -13,9 +13,9 @@ module.exports = {
 		"https://www.vandebron.nl/",
 		"https://www.greenchoice.nl/",
 		"https://www.pricewise.nl/",
-		// "https://www.budgetthuis.nl/energie/",
-		// "https://www.nle.nl/",
-		// "https://www.engie.nl/",
-		// "https://www.deltaenergie.nl/",
+		"https://www.budgetthuis.nl/energie/",
+		"https://www.nle.nl/",
+		"https://www.engie.nl/",
+		"https://www.deltaenergie.nl/",
 	]
 };
