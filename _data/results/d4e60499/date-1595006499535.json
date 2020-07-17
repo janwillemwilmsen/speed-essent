@@ -1,0 +1,45 @@
+{
+  "url": "https://www.energiedirect.nl/zonnepanelen",
+  "requestedUrl": "https://www.energiedirect.nl/zonnepanelen",
+  "timestamp": 1595006660963,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 5
+  },
+  "lighthouse": {
+    "version": "6.1.1",
+    "performance": 0.29,
+    "accessibility": 0.73,
+    "bestPractices": 0.77,
+    "seo": 0.93,
+    "total": 272
+  },
+  "firstContentfulPaint": 3203.0299999999997,
+  "speedIndex": 8469.009392959275,
+  "largestContentfulPaint": 6403.759999999999,
+  "totalBlockingTime": 907.5,
+  "cumulativeLayoutShift": 0.0023793411768798563,
+  "timeToInteractive": 13100.719999999998,
+  "maxPotentialFirstInputDelay": 351,
+  "timeToFirstByte": 241.349,
+  "weight": {
+    "summary": "63 requests • 1,998 KiB",
+    "total": 2046171,
+    "image": 548231,
+    "imageCount": 19,
+    "script": 1182984,
+    "scriptCount": 18,
+    "document": 49380,
+    "font": 135863,
+    "fontCount": 6,
+    "stylesheet": 119745,
+    "stylesheetCount": 6,
+    "thirdParty": 931562,
+    "thirdPartyCount": 26
+  },
+  "axe": {
+    "passes": 1181,
+    "violations": 120
+  }
+}

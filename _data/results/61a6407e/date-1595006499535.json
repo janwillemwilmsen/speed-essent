@@ -1,0 +1,45 @@
+{
+  "url": "https://www.geas.nl/",
+  "requestedUrl": "https://www.geas.nl/",
+  "timestamp": 1595006765764,
+  "ranks": {
+    "hundos": 4,
+    "performance": 1,
+    "accessibility": 11
+  },
+  "lighthouse": {
+    "version": "6.1.1",
+    "performance": 0.92,
+    "accessibility": 0.36,
+    "bestPractices": 0.77,
+    "seo": 0.91,
+    "total": 296
+  },
+  "firstContentfulPaint": 1721.045,
+  "speedIndex": 2437.3165079671217,
+  "largestContentfulPaint": 2303.3420000000006,
+  "totalBlockingTime": 148.5,
+  "cumulativeLayoutShift": 0.001105685763888889,
+  "timeToInteractive": 6088.342000000001,
+  "maxPotentialFirstInputDelay": 140,
+  "timeToFirstByte": 133.934,
+  "weight": {
+    "summary": "74 requests • 1,984 KiB",
+    "total": 2031633,
+    "image": 1534817,
+    "imageCount": 24,
+    "script": 227972,
+    "scriptCount": 18,
+    "document": 12549,
+    "font": 192715,
+    "fontCount": 7,
+    "stylesheet": 63580,
+    "stylesheetCount": 24,
+    "thirdParty": 214847,
+    "thirdPartyCount": 16
+  },
+  "axe": {
+    "passes": 795,
+    "violations": 84
+  }
+}

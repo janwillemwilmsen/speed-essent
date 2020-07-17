@@ -1,0 +1,45 @@
+{
+  "url": "https://www.essent.nl/content/particulier/energie-besparen/isolatie/vloerisolatie.html",
+  "requestedUrl": "https://www.essent.nl/content/particulier/energie-besparen/isolatie/vloerisolatie.html",
+  "timestamp": 1595021145032,
+  "ranks": {
+    "hundos": 10,
+    "performance": 9,
+    "accessibility": 6
+  },
+  "lighthouse": {
+    "version": "6.1.1",
+    "performance": 0.16,
+    "accessibility": 0.77,
+    "bestPractices": 0.62,
+    "seo": 0.85,
+    "total": 240
+  },
+  "firstContentfulPaint": 3931.095,
+  "speedIndex": 8193.150592163214,
+  "largestContentfulPaint": 15462.874,
+  "totalBlockingTime": 2892.3055000000004,
+  "cumulativeLayoutShift": 0.14057080756293405,
+  "timeToInteractive": 17567.852999999996,
+  "maxPotentialFirstInputDelay": 2943.000000000002,
+  "timeToFirstByte": 152.41499999999996,
+  "weight": {
+    "summary": "67 requests • 3,486 KiB",
+    "total": 3569873,
+    "image": 1619099,
+    "imageCount": 27,
+    "script": 1306701,
+    "scriptCount": 25,
+    "document": 22108,
+    "font": 174080,
+    "fontCount": 5,
+    "stylesheet": 124663,
+    "stylesheetCount": 3,
+    "thirdParty": 1264715,
+    "thirdPartyCount": 26
+  },
+  "axe": {
+    "passes": 940,
+    "violations": 59
+  }
+}

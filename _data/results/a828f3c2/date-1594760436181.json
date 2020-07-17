@@ -1,0 +1,45 @@
+{
+  "url": "https://www.gaslicht.com/",
+  "requestedUrl": "https://www.gaslicht.com/",
+  "timestamp": 1594760753275,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1
+  },
+  "lighthouse": {
+    "version": "6.1.1",
+    "performance": 0.75,
+    "accessibility": 0.96,
+    "bestPractices": 0.92,
+    "seo": 0.99,
+    "total": 362
+  },
+  "firstContentfulPaint": 2244.3410000000003,
+  "speedIndex": 3136.6773485138924,
+  "largestContentfulPaint": 2370.009,
+  "totalBlockingTime": 850,
+  "cumulativeLayoutShift": 0.000055338541666666664,
+  "timeToInteractive": 4348.541,
+  "maxPotentialFirstInputDelay": 360.00000000000045,
+  "timeToFirstByte": 352.70399999999995,
+  "weight": {
+    "summary": "61 requests • 449 KiB",
+    "total": 460231,
+    "image": 70208,
+    "imageCount": 39,
+    "script": 207569,
+    "scriptCount": 11,
+    "document": 48490,
+    "font": 62843,
+    "fontCount": 5,
+    "stylesheet": 55468,
+    "stylesheetCount": 3,
+    "thirdParty": 165929,
+    "thirdPartyCount": 17
+  },
+  "axe": {
+    "passes": 1643,
+    "violations": 93
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://www.essent.nl/content/particulier/energie-besparen/isolatie/dakisolatie.html",
+  "requestedUrl": "https://www.essent.nl/content/particulier/energie-besparen/isolatie/dakisolatie.html",
+  "timestamp": 1594764333499,
+  "ranks": {
+    "hundos": 6,
+    "performance": 7,
+    "accessibility": 5
+  },
+  "lighthouse": {
+    "version": "6.1.1",
+    "performance": 0.17,
+    "accessibility": 0.77,
+    "bestPractices": 0.69,
+    "seo": 0.85,
+    "total": 248
+  },
+  "firstContentfulPaint": 3822.1429999999996,
+  "speedIndex": 7502.555893135162,
+  "largestContentfulPaint": 17555.903,
+  "totalBlockingTime": 2828.9999999999986,
+  "cumulativeLayoutShift": 0.112635986328125,
+  "timeToInteractive": 17773.771999999997,
+  "maxPotentialFirstInputDelay": 2967.9999999999964,
+  "timeToFirstByte": 192.27800000000002,
+  "weight": {
+    "summary": "68 requests • 3,546 KiB",
+    "total": 3630832,
+    "image": 1680837,
+    "imageCount": 28,
+    "script": 1305985,
+    "scriptCount": 25,
+    "document": 22260,
+    "font": 174079,
+    "fontCount": 5,
+    "stylesheet": 124494,
+    "stylesheetCount": 3,
+    "thirdParty": 1288964,
+    "thirdPartyCount": 26
+  },
+  "axe": {
+    "passes": 967,
+    "violations": 59
+  }
+}

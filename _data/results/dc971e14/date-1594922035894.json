@@ -1,0 +1,45 @@
+{
+  "url": "https://www.energiedirect.nl/isolatie",
+  "requestedUrl": "https://www.energiedirect.nl/isolatie",
+  "timestamp": 1594922183712,
+  "ranks": {
+    "hundos": 5,
+    "performance": 5,
+    "accessibility": 4
+  },
+  "lighthouse": {
+    "version": "6.1.1",
+    "performance": 0.23,
+    "accessibility": 0.73,
+    "bestPractices": 0.77,
+    "seo": 0.93,
+    "total": 266
+  },
+  "firstContentfulPaint": 3423.442,
+  "speedIndex": 10733.39019120147,
+  "largestContentfulPaint": 9616.124,
+  "totalBlockingTime": 942.9999999999991,
+  "cumulativeLayoutShift": 0.004009778135227115,
+  "timeToInteractive": 13620.125,
+  "maxPotentialFirstInputDelay": 388,
+  "timeToFirstByte": 1157.3280000000002,
+  "weight": {
+    "summary": "67 requests • 2,059 KiB",
+    "total": 2108526,
+    "image": 598500,
+    "imageCount": 22,
+    "script": 1182743,
+    "scriptCount": 18,
+    "document": 60995,
+    "font": 135862,
+    "fontCount": 6,
+    "stylesheet": 119745,
+    "stylesheetCount": 6,
+    "thirdParty": 937140,
+    "thirdPartyCount": 26
+  },
+  "axe": {
+    "passes": 998,
+    "violations": 97
+  }
+}

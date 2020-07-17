@@ -1,0 +1,45 @@
+{
+  "url": "https://www.essent.nl/content/particulier/index-v.html",
+  "requestedUrl": "https://www.essent.nl/content/particulier/index.html",
+  "timestamp": 1594917819705,
+  "ranks": {
+    "hundos": 6,
+    "performance": 6,
+    "accessibility": 6
+  },
+  "lighthouse": {
+    "version": "6.1.1",
+    "performance": 0.1,
+    "accessibility": 0.71,
+    "bestPractices": 0.69,
+    "seo": 0.78,
+    "total": 228
+  },
+  "firstContentfulPaint": 5589.1455,
+  "speedIndex": 10613.023214631865,
+  "largestContentfulPaint": 16550.383500000007,
+  "totalBlockingTime": 2602.9695,
+  "cumulativeLayoutShift": 0.0011274956597222222,
+  "timeToInteractive": 22185.75650000002,
+  "maxPotentialFirstInputDelay": 3117,
+  "timeToFirstByte": 185.485,
+  "weight": {
+    "summary": "130 requests • 2,736 KiB",
+    "total": 2801632,
+    "image": 1257522,
+    "imageCount": 65,
+    "script": 864804,
+    "scriptCount": 35,
+    "document": 19146,
+    "font": 203262,
+    "fontCount": 10,
+    "stylesheet": 77088,
+    "stylesheetCount": 4,
+    "thirdParty": 614344,
+    "thirdPartyCount": 35
+  },
+  "axe": {
+    "passes": 1047,
+    "violations": 74
+  }
+}

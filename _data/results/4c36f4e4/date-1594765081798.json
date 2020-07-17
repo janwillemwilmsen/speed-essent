@@ -1,0 +1,45 @@
+{
+  "url": "https://www.energiewonen.nl/",
+  "requestedUrl": "https://www.energiewonen.nl/",
+  "timestamp": 1594765516820,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 7
+  },
+  "lighthouse": {
+    "version": "6.1.1",
+    "performance": 0.92,
+    "accessibility": 0.52,
+    "bestPractices": 0.85,
+    "seo": 0.93,
+    "total": 322
+  },
+  "firstContentfulPaint": 1153.996,
+  "speedIndex": 2663.5557388018924,
+  "largestContentfulPaint": 2901.89,
+  "totalBlockingTime": 57.49999999999977,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4690.82,
+  "maxPotentialFirstInputDelay": 105,
+  "timeToFirstByte": 759.703,
+  "weight": {
+    "summary": "52 requests • 2,193 KiB",
+    "total": 2245122,
+    "image": 1867056,
+    "imageCount": 35,
+    "script": 231748,
+    "scriptCount": 10,
+    "document": 11558,
+    "font": 102222,
+    "fontCount": 3,
+    "stylesheet": 32212,
+    "stylesheetCount": 1,
+    "thirdParty": 255491,
+    "thirdPartyCount": 13
+  },
+  "axe": {
+    "passes": 616,
+    "violations": 39
+  }
+}

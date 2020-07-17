@@ -1,0 +1,45 @@
+{
+  "url": "https://nederlandisoleert.nl/",
+  "requestedUrl": "https://www.nederlandisoleert.nl/",
+  "timestamp": 1594764655102,
+  "ranks": {
+    "hundos": 7,
+    "performance": 10,
+    "accessibility": 5
+  },
+  "lighthouse": {
+    "version": "6.1.1",
+    "performance": 0.51,
+    "accessibility": 0.63,
+    "bestPractices": 0.69,
+    "seo": 0.93,
+    "total": 276
+  },
+  "firstContentfulPaint": 4956.043,
+  "speedIndex": 6378.436619091635,
+  "largestContentfulPaint": 6883.155000000001,
+  "totalBlockingTime": 147.5,
+  "cumulativeLayoutShift": 0.00013632541232638887,
+  "timeToInteractive": 6408.498,
+  "maxPotentialFirstInputDelay": 173,
+  "timeToFirstByte": 607.1189999999999,
+  "weight": {
+    "summary": "38 requests • 22,500 KiB",
+    "total": 23039958,
+    "image": 22352096,
+    "imageCount": 8,
+    "script": 383965,
+    "scriptCount": 15,
+    "document": 19796,
+    "font": 168505,
+    "fontCount": 6,
+    "stylesheet": 113086,
+    "stylesheetCount": 3,
+    "thirdParty": 135888,
+    "thirdPartyCount": 9
+  },
+  "axe": {
+    "passes": 327,
+    "violations": 44
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "url": "https://www.energiedirect.nl/energie/overstappen-energie",
+  "requestedUrl": "https://www.energiedirect.nl/energie/overstappen-energie",
+  "timestamp": 1594764447687,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 6
+  },
+  "lighthouse": {
+    "version": "6.1.1",
+    "performance": 0.36,
+    "accessibility": 0.74,
+    "bestPractices": 0.77,
+    "seo": 0.93,
+    "total": 280
+  },
+  "firstContentfulPaint": 2984.7149999999997,
+  "speedIndex": 6690.025495091997,
+  "largestContentfulPaint": 11348.482499999995,
+  "totalBlockingTime": 659.6870000000004,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10780.977999999996,
+  "maxPotentialFirstInputDelay": 367,
+  "timeToFirstByte": 513.265,
+  "weight": {
+    "summary": "55 requests • 1,369 KiB",
+    "total": 1401851,
+    "image": 486533,
+    "imageCount": 16,
+    "script": 671265,
+    "scriptCount": 14,
+    "document": 40257,
+    "font": 121380,
+    "fontCount": 5,
+    "stylesheet": 71713,
+    "stylesheetCount": 5,
+    "thirdParty": 162360,
+    "thirdPartyCount": 16
+  },
+  "axe": {
+    "passes": 980,
+    "violations": 108
+  }
+}
