@@ -9,14 +9,14 @@ module.exports = {
 		"https://www.kemkens.nl/",
 		"https://www.voltasolar.nl/",
 		"https://www.ewacht.nl/",
-		// "https://www.energiewacht.nl/",
+		"https://www.energiewacht.nl/",
 		"https://www.geas.nl/",
-		// "https://www.voltalimburg.nl/",
+		"https://www.voltalimburg.nl/",
 		"https://www.energiewonen.nl/",
 		"https://www.zon7.nl/",
 		"https://www.isoprofs.nl/",
 		"https://www.nederlandisoleert.nl/",
 		"https://www.cvtotaal.nl/",
-		// "https://www.klimaatroute.nl/",
+		"https://www.klimaatroute.nl/",
 	]
 };
