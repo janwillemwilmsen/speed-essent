@@ -6,6 +6,7 @@ module.exports = {
 		freshChrome: "run", // verschillende sites is RUN
 	},
 	urls: [
+		"https://www.klimaatroute.nl/",
 		"https://www.kemkens.nl/",
 		"https://www.voltasolar.nl/",
 		"https://www.ewacht.nl/",
@@ -17,6 +18,6 @@ module.exports = {
 		"https://www.isoprofs.nl/",
 		"https://www.nederlandisoleert.nl/",
 		"https://www.cvtotaal.nl/",
-		"https://www.klimaatroute.nl/",
+	
 	]
 };
