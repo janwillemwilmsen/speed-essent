@@ -8,7 +8,7 @@ module.exports = {
 	urls: [
 		"https://www.klimaatroute.nl/",
 		"https://www.kemkens.nl/",
-		"https://www.voltasolar.nl/",
+		// "https://www.voltasolar.nl/",
 		"https://www.ewacht.nl/",
 		"https://www.energiewacht.nl/?2",
 		"https://www.geas.nl/",
