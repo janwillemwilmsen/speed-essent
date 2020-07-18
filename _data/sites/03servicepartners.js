@@ -8,16 +8,16 @@ module.exports = {
 	urls: [
 		"https://www.klimaatroute.nl/",
 		"https://www.kemkens.nl/",
-		// "https://www.voltasolar.nl/",
+		"https://www.voltasolar.nl/?9",
 		"https://www.ewacht.nl/",
 		"https://www.energiewacht.nl/?2",
 		"https://www.geas.nl/",
 		"https://www.voltalimburg.nl/",
 		"https://www.energiewonen.nl/",
 		"https://www.zon7.nl/",
-		"https://www.isoprofs.nl/",
+		"https://isoprofs.nl/?8",
 		"https://www.nederlandisoleert.nl/",
-		"https://www.cvtotaal.nl/",
+		"https://www.cvtotaal.nl/?2",
 	
 	]
 };
