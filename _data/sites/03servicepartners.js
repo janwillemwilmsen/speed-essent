@@ -2,7 +2,7 @@ module.exports = {
 	name: "Servicepartners", // optional, falls back to object key
 	description: "Servicepartners websites",
 	options: {
-		frequency: 60 * 23, // 24 hours 60*23
+		frequency: 1 * 1, // 24 hours 60*23
 		freshChrome: "run", // verschillende sites is RUN
 	},
 	urls: [
@@ -13,7 +13,7 @@ module.exports = {
 		"https://www.voltalimburg.nl/",
 		"https://www.energiewonen.nl/",
 		"https://www.zon7.nl/",
-		
+
 		// "https://isoprofs.nl/index.php",
 		// "https://www.nederlandisoleert.nl/",
 		// "https://www.cvtotaal.nl/index.php",
