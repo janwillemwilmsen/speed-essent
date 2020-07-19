@@ -1,6 +1,6 @@
 module.exports = {
 	name: "Energiebranche", // optional, falls back to object key
-	description: "Energiebranche web sites",
+	description: "Energiebranche websites",
 	options: {
 		frequency: 1 * 1, 
 		// 24 hours
