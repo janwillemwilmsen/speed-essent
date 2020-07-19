@@ -1,11 +1,14 @@
 {
   "01essent": {
-    "timestamp": 1595027564059
+    "timestamp": 1595193224563
   },
   "02energiedirect": {
-    "timestamp": 1595027689780
+    "timestamp": 1595193353527
   },
   "04energiebranche": {
-    "timestamp": 1595028107919
+    "timestamp": 1595193726393
+  },
+  "03servicepartners": {
+    "timestamp": 1595193540337
   }
 }

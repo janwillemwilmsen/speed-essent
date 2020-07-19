@@ -12,17 +12,17 @@
 		</script>
 	</head>
 	<body>
-		<h1 class="speedlify-hed"><a href="/">speedlify</a>{% if vertical %}:{{ vertical }}{% endif %}</h1>
+		<h1 class="speedlify-hed"><a href="/">performancescan</a> {% if vertical %}:{{ vertical }}{% endif %}</h1>
 		<p class="speedlify-subhed">
-			Benchmark {{ sites[vertical].description or "web pages" }} over time.
-			{%- if maxResults %} Updates <em>at most</em> once every {{ sites[vertical].options.frequency or 60 }} minutes. Only the last {{ maxResults }} result{% if maxResults != 1 %}s{% endif %} (and the oldest result) are shown.{% endif %}
+			Benchmark {{ sites[vertical].description or "web pages" }} in de loop van de tijd.
+			
 			 </p>
 
 		{{ content | safe }}
 
-		<footer>
+		<footer style="font-size:10px;color:#616161;">
 			MIT licensed. 
-			Created by <a href="https://www.zachleat.com/">@zachleat</a>.
+			Created by <a style="color:#616161;" href="https://www.zachleat.com/">@zachleat</a>.
 		</footer>
 
 		<script src="/chartist.js"></script>
