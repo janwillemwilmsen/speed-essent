@@ -13,12 +13,10 @@ module.exports = {
 		"https://www.voltalimburg.nl/",
 		"https://www.energiewonen.nl/",
 		"https://www.zon7.nl/",
-
-		// "https://isoprofs.nl/index.php",
-		// "https://www.nederlandisoleert.nl/",
-		// "https://www.cvtotaal.nl/index.php",
-		// "https://www.voltasolar.nl/index.php",
-		// "https://www.energiewacht.nl/?2",
-
+		"https://isoprofs.nl/",
+		"https://www.nederlandisoleert.nl/",
+		"https://www.cvtotaal.nl/",
+		"https://www.voltasolar.nl/",
+		"https://www.energiewacht.nl/"
 	]
 };
