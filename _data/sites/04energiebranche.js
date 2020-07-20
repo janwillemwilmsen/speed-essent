@@ -3,6 +3,7 @@ module.exports = {
 	description: "Energiebranche websites",
 	options: {
 		frequency: 1 * 1, 
+		// frequency: 60 * 23, 
 		// 24 hours
 		freshChrome: "run",  // verschillende sites = run, zonder refresh
 	},
