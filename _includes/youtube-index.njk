@@ -150,6 +150,16 @@
 </head>
 <body>
 
+<ul>
+{%- for video in collections.video -%}
+  <li> <a href="{{ video.url }}">  {{ video.data.title }}</a>  </li>
+{%- endfor -%}
+</ul>
+
+{{ content | safe }}
+
+
+below is static
 
       
 
@@ -182,6 +192,9 @@
       <button class="button" data-filter="numberGreaterThan50">number > 50</button>
       <button class="button" data-filter="ium">name ends with &ndash;ium</button>
       </div>
+
+
+      
       <div class="grid">
       <div class="element-item transition metal " data-category="transition">
       <h3 class="name">Mercury</h3>
