@@ -3,7 +3,7 @@ module.exports = {
 	description: "Essent.nl pagina's",
 	options: {
 		// frequency: 60 * 23, 
-		frequency: 100* 100, 
+		frequency: 1* 1, 
 		// 24 hours
 		freshChrome: "site",
 	},
@@ -18,5 +18,6 @@ module.exports = {
 		"https://www.essent.nl/content/particulier/energie-besparen/isolatie/spouwmuurisolatie.html",
 		"https://www.essent.nl/content/particulier/energie-besparen/isolatie/vloerisolatie.html",
 		"https://www.essent.nl/content/particulier/energie-besparen/isolatie/dakisolatie.html",
+		"https://www.essent.nl/kennisbank/energie-besparen/energielabel/energielabel-2020",
 	]
 };
