@@ -2,8 +2,8 @@ module.exports = {
 	name: "Essent", // optional, falls back to object key
 	description: "Essent.nl pagina's",
 	options: {
-		frequency: 60 * 23, 
 		// frequency: 60 * 23, 
+		frequency: 100* 100, 
 		// 24 hours
 		freshChrome: "site",
 	},
