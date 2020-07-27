@@ -2,7 +2,7 @@ module.exports = {
 	name: "Energiebranche", // optional, falls back to object key
 	description: "Energiebranche websites",
 	options: {
-		frequency: 11 * 1, 
+		frequency: 14 * 1, 
 		// frequency: 60 * 23, 
 		// 24 hours
 		freshChrome: "run",  // verschillende sites = run, zonder refresh
