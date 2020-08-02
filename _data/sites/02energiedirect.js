@@ -3,7 +3,7 @@ module.exports = {
 	description: "energiedirect.nl pagina's",
 	options: {
 		// frequency: 60 * 23, 
-		frequency: 1 * 1, 
+		frequency: 1 * 100, 
 		// 24 hours
 		freshChrome: "site",
 	},
