@@ -15,7 +15,7 @@ module.exports = {
 		"https://www.voltalimburg.nl/",
 		"https://www.energiewonen.nl/",
 		"https://www.zon7.nl/",
-		"https://isoprofs.nl/",
+		// "https://isoprofs.nl/",
 		"https://www.nederlandisoleert.nl/",
 		"https://www.cvtotaal.nl/",
 		// "https://www.voltasolar.nl/",
