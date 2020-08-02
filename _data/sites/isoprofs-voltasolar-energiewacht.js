@@ -1,6 +1,6 @@
 module.exports = {
-	name: "Servicepartners", // optional, falls back to object key
-	description: "Servicepartners websites",
+	name: "Servicepartners2", // optional, falls back to object key
+	description: "Servicepartners2 websites",
 	options: {
 		frequency: 1 * 1, 
 		// frequency: 60 * 23, 
