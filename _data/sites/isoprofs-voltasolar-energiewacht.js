@@ -9,7 +9,7 @@ module.exports = {
 	},
 	urls: [
 		 
-		"https://isoprofs.nl/",
+		// "https://isoprofs.nl/",
 		 
 		"https://www.voltasolar.nl/",
 		"https://www.energiewacht.nl/"
