@@ -10,6 +10,7 @@ module.exports = {
 	urls: [
 		"https://www.energiedirect.nl/isolatie",
 		"https://www.energiedirect.nl/",
+		"https://www.energiedirect.nl/beste-bod/",
 		"https://www.energiedirect.nl/zonnepanelen",
 		"https://www.energiedirect.nl/energie/energie-aanbiedingen",
 		"https://www.energiedirect.nl/energie/goedkope-energie",

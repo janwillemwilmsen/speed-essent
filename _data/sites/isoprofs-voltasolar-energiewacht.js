@@ -12,6 +12,7 @@ module.exports = {
 		// "https://isoprofs.nl/",
 		 
 		"https://www.voltasolar.nl/",
-		"https://www.energiewacht.nl/"
+		"https://www.energiewacht.nl/",
+		
 	]
 };
